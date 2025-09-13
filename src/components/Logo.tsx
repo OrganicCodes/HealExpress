@@ -31,10 +31,10 @@ export default function Logo({ size = 'md', showText = true, className = '' }: L
       {showText && (
         <div>
           <h1 className={`${textSizeClasses[size]} font-bold text-gray-900 leading-tight`}>
-            HealExpress
+            Life Secure
           </h1>
           <p className="text-xs text-gray-600 -mt-0.5 leading-tight">
-            Emergency Medical Services
+            & Home Care
           </p>
         </div>
       )}

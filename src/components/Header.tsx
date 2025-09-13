@@ -50,13 +50,13 @@ export default function Header() {
                 <span className="font-medium text-xs sm:text-sm">+91-9264198199</span>
               </div>
               <div className="hidden md:flex items-center space-x-4">
-                <span className="text-blue-100 text-xs sm:text-sm">Trusted by 2,00,000+ Families Across India 🇮🇳</span>
+                <span className="text-blue-100 text-xs sm:text-sm">Trusted by 50,000+ Families for Home Care Services 🇮🇳</span>
               </div>
             </div>
             <div className="flex items-center space-x-2 sm:space-x-4">
               <div className="flex items-center space-x-1.5 sm:space-x-2">
                 <Heart className="h-3 w-3 sm:h-4 sm:w-4" />
-                <span className="text-blue-100 text-xs sm:text-sm">24/7 Emergency Service</span>
+                <span className="text-blue-100 text-xs sm:text-sm">24/7 Home Care Support</span>
               </div>
             </div>
           </div>
@@ -99,7 +99,7 @@ export default function Header() {
               href="/contact" 
               className="btn-secondary text-xs lg:text-sm px-3 lg:px-4 py-1.5 lg:py-2"
             >
-              <span className="hidden lg:inline">BOOK AMBULANCE</span>
+              <span className="hidden lg:inline">BOOK HOME CARE</span>
               <span className="lg:hidden">BOOK</span>
             </Link>
           </div>
@@ -153,7 +153,7 @@ export default function Header() {
                       className="btn-secondary text-center py-3 text-base"
                       onClick={() => setIsMenuOpen(false)}
                     >
-                      BOOK AMBULANCE
+                      BOOK HOME CARE
                     </Link>
                   </div>
 
@@ -165,10 +165,10 @@ export default function Header() {
                     </div>
                     <div className="flex items-center space-x-3 text-sm text-gray-600">
                       <Heart className="h-4 w-4" />
-                      <span>24/7 Emergency Service</span>
+                      <span>24/7 Home Care Support</span>
                     </div>
                     <div className="text-xs text-gray-500 mt-2">
-                      Trusted by 2,00,000+ Families Across India 🇮🇳
+                      Trusted by 50,000+ Families for Home Care Services 🇮🇳
                     </div>
                   </div>
                 </div>

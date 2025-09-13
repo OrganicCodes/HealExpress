@@ -12,9 +12,9 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'HealExpress - India\'s Trusted Emergency Medical Services',
-  description: 'HealExpress provides 24/7 emergency medical services including Road, Rail, Air Ambulance & Home Healthcare across India. Trusted by 2,00,000+ families.',
-  keywords: 'ambulance service, emergency medical, home healthcare, air ambulance, train ambulance, medical transport, India',
+  title: 'Life Secure & Home Care - Premium Healthcare Services',
+  description: 'Life Secure & Home Care provides comprehensive healthcare services including home nursing, elderly care, medical equipment, and 24/7 emergency support across India.',
+  keywords: 'home healthcare, elderly care, nursing services, medical equipment, home care, healthcare at home, India',
   icons: {
     icon: '/favicon.svg',
     shortcut: '/favicon.svg',
